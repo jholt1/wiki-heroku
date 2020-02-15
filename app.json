@@ -6,10 +6,5 @@
   "keywords": ["node", "wiki", "heroku"],
   "website": "https://wiki.js.org/",
   "success_url": "/",
-  "addons": [
-    {
-      "plan": "heroku-postgresql"
-    }
-  ],
   "stack": "container"
 }
